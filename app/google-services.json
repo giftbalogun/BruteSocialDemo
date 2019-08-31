@@ -1,0 +1,188 @@
+{
+  "project_info": {
+    "project_number": "238880541619",
+    "firebase_url": "https://android-chat-c7f83.firebaseio.com",
+    "project_id": "android-chat-c7f83",
+    "storage_bucket": "android-chat-c7f83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238880541619:android:1244c56be0518ae9",
+        "android_client_info": {
+          "package_name": "com.android.rivchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238880541619-nss3kpg86h8m92gth3tth1tsfd2rq9pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbcavmz2HdpINW9b3obGo-5jRTtPj0ZI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238880541619-nss3kpg86h8m92gth3tth1tsfd2rq9pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238880541619:android:3d88edc45c76fc28",
+        "android_client_info": {
+          "package_name": "com.balogun.brutedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238880541619-gcqjl9govrn432c1v140qies97kvmqjm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.balogun.brutedemo",
+            "certificate_hash": "fba188cf32681fdc1b9062dff312026efb8b2f57"
+          }
+        },
+        {
+          "client_id": "238880541619-nss3kpg86h8m92gth3tth1tsfd2rq9pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbcavmz2HdpINW9b3obGo-5jRTtPj0ZI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238880541619-nss3kpg86h8m92gth3tth1tsfd2rq9pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238880541619:android:02ce30a6592f8994",
+        "android_client_info": {
+          "package_name": "com.balogun.brutesocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238880541619-d81lrvq9urbgabpu7stcgnn04cmij3q7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.balogun.brutesocial",
+            "certificate_hash": "fba188cf32681fdc1b9062dff312026efb8b2f57"
+          }
+        },
+        {
+          "client_id": "238880541619-nss3kpg86h8m92gth3tth1tsfd2rq9pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbcavmz2HdpINW9b3obGo-5jRTtPj0ZI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238880541619-nss3kpg86h8m92gth3tth1tsfd2rq9pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238880541619:android:6f034ab328dae0dd",
+        "android_client_info": {
+          "package_name": "com.balogun.project4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238880541619-4hasa8piphhnicahj9ag8qdfjp7mkauf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.balogun.project4",
+            "certificate_hash": "fba188cf32681fdc1b9062dff312026efb8b2f57"
+          }
+        },
+        {
+          "client_id": "238880541619-nss3kpg86h8m92gth3tth1tsfd2rq9pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbcavmz2HdpINW9b3obGo-5jRTtPj0ZI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238880541619-nss3kpg86h8m92gth3tth1tsfd2rq9pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238880541619:android:0e38ffb50ed9dfc6",
+        "android_client_info": {
+          "package_name": "com.balogun.project5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238880541619-85b4r89tsk4appv1oroa1khql3eh1nbv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.balogun.project5",
+            "certificate_hash": "fba188cf32681fdc1b9062dff312026efb8b2f57"
+          }
+        },
+        {
+          "client_id": "238880541619-nss3kpg86h8m92gth3tth1tsfd2rq9pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbcavmz2HdpINW9b3obGo-5jRTtPj0ZI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238880541619-nss3kpg86h8m92gth3tth1tsfd2rq9pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
